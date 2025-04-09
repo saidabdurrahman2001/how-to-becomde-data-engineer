@@ -28,4 +28,4 @@ Halo! Nama saya Said, sekarang bekerja sebagai HCIS. Di sini saya mendokumentasi
 - Looker Studio
 
 ## 📎 Silabus Belajar
-Lihat file: `syllabus.xlsx`
+Lihat file: `Silabus Data Engineer.xlsx`
